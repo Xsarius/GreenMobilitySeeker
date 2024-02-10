@@ -42,9 +42,7 @@ dependencies:
   permission_handler: ^10.0.0
   fluttertoast: ^8.0.8
   flutter_local_notifications: ^9.0.0
-  background_fetch:
-    git:
-      url: https://github.com/transistorsoft/flutter_background_fetch
+  background_fetch: ^1.2.2
 
 dev_dependencies:
   flutter_test:
